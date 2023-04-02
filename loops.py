@@ -1,4 +1,4 @@
-3fruits= ["apple" , "mango" ,"banana", "orange", "strawberry"]
+fruits= ["apple" , "mango" ,"banana", "orange", "strawberry"]
 #for x in fruits:
     #print(x)
 
