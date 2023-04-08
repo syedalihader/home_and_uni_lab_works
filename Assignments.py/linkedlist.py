@@ -38,8 +38,3 @@ if  __name__=='__main__'  :
     li.insert_at_end(66)
     li.print()   
 
-
-    
-    
-                    
-          
