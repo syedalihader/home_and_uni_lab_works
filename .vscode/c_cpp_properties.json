@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\msys64\\mingw64\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys64\\mingw64",
+            "intelliSenseMode": "windows-clang-x64",
+            "cppStandard": "c++17",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}

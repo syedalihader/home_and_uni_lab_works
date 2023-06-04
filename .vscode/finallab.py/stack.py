@@ -30,11 +30,3 @@ print(stack.pop())
 print(stack.peek())  
 print(stack.size())  
 print(stack.is_empty())  
-
-
-
-
-
-
-
-
